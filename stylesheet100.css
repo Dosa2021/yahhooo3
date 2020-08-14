@@ -374,6 +374,17 @@ input:checked + .tab_class + .content_class {
   text-align: center;
 }
 
+#profile {
+  background-color: #;
+  height: 1000px;
+  width: 1000px;
+  margin:0 auto;
+  margin-top:10px;
+  border: 0px solid #;
+  float: left;
+}
+
+
 
 
 
